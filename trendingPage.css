@@ -1,0 +1,61 @@
+.lineBehindOurS{
+    background-color: #02373a;
+    width: 5px;
+    height: 40px;
+    margin-top: 40px;
+    margin-left: 50px;
+}
+.topStories{
+    font-size: 30px;
+    padding-left: 65px;
+    color:#02373a;
+    margin-top: -37px;
+    font-family: sans-serif;
+    margin-left: 3px;
+}
+.jlssPassers,.budgetCut{
+    position: relative;
+    margin-left: 80px;
+    width: 350px;
+    margin-top: 40px;
+}
+.matatagCur{
+    width: 350px;
+}
+.news1,.news2,.news3{
+    font-size: 17px;
+    color:#02373a;
+}
+.news1{
+    position: relative;
+    left: 160px;
+    margin-top: 10px;
+}
+.news2{
+    position: relative;
+    left: 600px;
+    margin-top: -22px;
+}
+.news3{
+    position: relative;
+    left: 1035px;
+    margin-top: -22px;
+}
+.para1{
+    position: relative;
+    margin-top: 10px;
+    left: 160px;
+    font-size: 20px;
+}
+.para2{
+    position: relative;
+    margin-top: -90px;
+    font-size: 20px;
+    left: 600px;
+}
+.para3{
+    position: relative;
+    margin-top: -70px;
+    font-size: 20px;
+    left: 1035px;
+}

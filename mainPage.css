@@ -1,0 +1,92 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+body{
+    background-color: white;
+}
+
+.exploreBut{
+    padding-top: 100px;
+    font-family: 'Times New Roman', Times, serif;
+    text-decoration: none;
+    color: #ffffff;
+    position: absolute;
+    top: 20px;
+    left: 560px;
+    font-size: 150px;
+}
+.homeImage{
+    padding-top: 5px;
+    width: 1530px;
+    height: 200px;
+    padding-bottom: 10px;
+}
+.lineIma{
+    height: 5px;
+    border:#dcefee;
+    background-color:#dcefee;
+}
+.lineBehindOurS{
+    background-color: #02373a;
+    width: 5px;
+    height: 40px;
+    margin-top: 10px;
+    margin-left: 31px;
+}
+.ourServices{
+    font-size: 30px;
+    padding-left: 65px;
+    color:#02373a;
+    margin-top: -37px;
+    font-family: sans-serif;
+    margin-left: -20px;
+}
+.studMustHave, .trending, .studyVidsTips, .lateBooks, .gadGetss{
+    text-decoration: none;
+    font-size: 25px;
+    padding-left: 77px;
+    padding-right: 77px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    position: relative;
+    top: 20px;
+}
+.studMustHave,.trending,.gadGetss{
+    color: white;
+    background-color: #02373a;
+}
+.studyVidsTips,.lateBooks{
+    color: #02373a;
+    background-color: #dcefee;
+}
+.trendPic,.studPic,.mustHavePic,.latestBookPic,.gadgetPic{
+    position: absolute;
+}
+.trendPic{
+    top: 450px;
+    left: 33px;
+    width: 300px;
+    height: 200px;
+}
+.studPic{
+    top: 450px;
+    left: 338px;
+    width: 317px;
+    height: 200px;
+}
+.mustHavePic{
+    top: 450px;
+    left: 650px;
+    height: 200px;
+}
+.latestBookPic{
+    top: 450px;
+    left: 950px;
+    height: 200px;
+}
+.gadgetPic{
+    top: 450px;
+    left: 1230px;
+    height: 200px;
+}

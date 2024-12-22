@@ -1,0 +1,128 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+body{
+    background-image: url("Book_Crop.jpeg");
+    background-repeat: no-repeat;
+    background-size: 980px;
+    background-position: left;
+    
+}
+.div-header{
+    padding: 20px;
+    padding-top: 50px;
+    margin-top: 10px;
+    margin-right: 78px;
+}
+nav{
+    background-color:#dcefee;
+    float: right;
+    border: solid #02373a;
+    border-width: 5.5px;
+    margin-bottom:20px;
+    padding-left: 35px;
+    padding-right: 35px;
+    padding-top: 30px;
+    padding-bottom: 30x;
+    position: absolute;
+    top: 45px;
+    right: 70px;
+}
+.Login{
+    font-size: 45px;
+    font-family: monospace;
+    padding-top:160px;
+}
+    
+form{
+    padding-bottom: 130px;
+    margin: 5px;
+}
+input {
+    padding: 20px;
+    padding-right:85px ;
+    font-weight: bold;
+    font-family: Arial;
+    padding-bottom: 10px;
+    margin: 12px;
+    outline: none;
+    box-shadow: inset 2px 5px 10px rgb(5, 5, 5);
+    border: none;
+    background: none;
+    border-radius: 9999px;
+    font-size: 15px;
+    text-align: relative;
+
+}
+
+
+button{
+  font: inherit;
+  background-color: #f0f0f0;
+  border: 0;
+  color: #242424;
+  border-radius: 0.5em;
+  font-size: 1.35rem;
+  padding: 0.375em 1em;
+  margin-top: 10px;
+  font-weight: 600;
+  text-shadow: 0 0.0625em 0 #fff;
+  box-shadow: inset 0 0.0625em 0 0 #f4f4f4, 0 0.0625em 0 0 #efefef,
+    0 0.125em 0 0 #ececec, 0 0.25em 0 0 #e0e0e0, 0 0.3125em 0 0 #dedede,
+    0 0.375em 0 0 #dcdcdc, 0 0.425em 0 0 #cacaca, 0 0.425em 0.5em 0 #cecece;
+  transition: 0.15s ease;
+  cursor: pointer;
+}
+button:active {
+  translate: 0 0.225em;
+  box-shadow: inset 0 0.03em 0 0 #f4f4f4, 0 0.03em 0 0 #efefef,
+    0 0.0625em 0 0 #ececec, 0 0.125em 0 0 #e0e0e0, 0 0.125em 0 0 #dedede,
+    0 0.2em 0 0 #dcdcdc, 0 0.225em 0 0 #cacaca, 0 0.225em 0.375em 0 #cecece;
+}
+
+.center{
+    text-align: left;
+}
+.left-div{
+    text-align:justify;
+    margin: 10px;
+
+}
+a{
+    margin-top: 40px ;
+    margin: 14px;
+    color: black ;
+    font-family: arial;
+    font-weight: bold;
+    text-decoration: none;
+}
+.The{
+    text-align: center;
+    padding-top:35px;
+    font-size: 77px;
+    font-family: Arial, Helvetica, sans-serif;
+    color:#02373a;
+  
+}
+.BFF{
+    text-align: center;
+    border: solid black;
+    border-radius: 15px;
+    border-width: 1px;
+    padding:5px;
+    display:inline-block;
+    padding-bottom: 10px;
+    margin-top: 10px;
+    padding-left: 120px;
+    padding-right: 120px;
+}
+.toga{
+    color:#02373a;
+    margin-bottom: -40px;
+    margin-right: 91px;
+}
+.BFF,.The{
+    position: relative;
+    left: -280px;
+}

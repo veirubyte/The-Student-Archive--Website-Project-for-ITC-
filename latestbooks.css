@@ -1,0 +1,39 @@
+.must-read {
+        border-left: #02373a solid;
+        font-family:sans-serif;
+        font-size: 30px;
+        padding-left: 10px;
+        border-width: 5px;
+        color: #02373a;
+        margin-top:0px;
+    }
+     
+.book-grid {
+    display: flex;
+    gap: 50px;
+    justify-content: center;
+    margin-top: -30px;
+}
+.book {
+    text-align: center;
+    width: 200px;
+    padding: 60px;
+}
+.book img {
+    width: 100%;
+    height: auto;
+    border-right: #02373a solid;
+    height: fit-content;
+    padding-right: 60px;
+}
+.book-title {
+    margin-top: 10px;
+    font-size: 16px;
+    font-weight: bold;
+    font-family: sans-serif;
+}
+.container{
+    margin-top: 40px;
+    font-family: sans-serif;
+    padding-left: 40px;
+}

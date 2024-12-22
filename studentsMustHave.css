@@ -1,0 +1,51 @@
+.must-have {
+    font-size: 30px;
+    color: #02373a;
+    font-family: sans-serif;
+    position: absolute;
+    top: 135px;
+    left: 50px;
+  }
+
+  .grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(300px, 5fr));
+    gap: 25px;
+  }
+
+  .item {
+    background-color: #fff;
+    border-radius: 0;
+    box-shadow: none;
+    text-align: center;
+    padding: 1px;
+  }
+
+  .item img {
+    max-width:50%;
+    size: 10px;
+    height: auto;
+    margin-bottom: 1px;
+  }
+
+  .item h3 {
+    font-size: 15px;
+    font-weight: bold;
+    color: #333;
+    margin-bottom: 0px;
+  }
+
+  .item p {
+    font-size: 10px;
+    color: black;
+  }
+  .lineBehindOurS{
+    background-color: #02373a;
+    width: 5px;
+    height: 40px;
+    margin-top: 40px;
+    margin-left: 50px;
+    position: relative;
+    top: -18px;
+    left:-15px;
+    }

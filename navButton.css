@@ -1,0 +1,124 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+body{
+    background-color: white;
+}
+.navj{
+    background-color: #dcefee;
+    padding-top: 0px;
+    padding-bottom: -1px;
+}
+.studArc{
+    width: 60px;
+    height: 60px;
+    margin-left: 50px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.pmain{
+    font-size: 35px;
+    font-family: sans-serif;
+    text-decoration: none;
+    color:#02373a;
+    margin-left: 20px;
+    position: absolute;
+    top: 23px;
+}
+.shoppingCart{
+    height: 36px;
+    width: 36px;
+    position: absolute;
+    right: 442px;
+    top: 18px;
+}
+.shopnow{
+    font-size: 28px;
+    font-family: sans-serif;
+    text-decoration: none;
+    color:#02373a;
+    position: absolute;
+    right: 280px;
+    top: 24px;
+}
+.navButton{
+    width: 25px;
+    height: 25spx;
+    position: absolute;
+    right: 850px;
+    top: 28px;
+}
+.searchBar{
+    font-family: sans-serif;
+    font-size: 23px;
+    color: #02373a;
+    border-color: #dcefee;
+    border: 1px;
+    position: absolute;
+    right: 538px;
+    top: 20px;
+    padding-left: 10px;
+    padding-top: 7px;
+    padding-bottom: 7px;
+}
+.userButton{
+    width: 40px;
+    height: 40px;
+    position: absolute;
+    right: 180px;
+    top: 20px;
+}
+.userAccount{
+    font-family: sans-serif;
+    text-decoration: none;
+    color:#02373a;
+    font-size: 28px;
+    position: absolute;
+    right: 61px;
+    top: 23px;
+}
+.trendButton, .studTips, .studMust, .latBooks, .gadgets{
+    font-family: sans-serif;
+    text-decoration: none;
+    color:white;
+    background-color: #02373a;
+    font-family: sans-serif;
+    font-size: 23px;
+    padding-left: 61.5px;
+    padding-right: 61.5px;
+    padding-top: 3px;
+    padding-bottom: 3px;
+}
+.trendButton{
+    margin-left: -3px
+}
+.studTips{
+    margin-left: -3px
+}
+.studMust{
+    margin-left: -3px
+}
+.latBooks{
+    margin-left: -3px
+}
+.gadgets{
+    margin-left: -3px
+}
+.abUs{
+    margin-left: 0px;
+    margin-left: -5px;
+    position: relative;
+    right: -3px;
+    font-family: sans-serif;
+    text-decoration: none;
+    color:white;
+    background-color: #02373a;
+    font-family: sans-serif;
+    font-size: 23px;
+    padding-left: 64px;
+    padding-right: 64px;
+    padding-top: 3px;
+    padding-bottom: 3px;
+}
+
